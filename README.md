@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Lucas-Maingi
-- 👀 I’m interested in Mathematics, Data Science, Artificial Intelligence, Machine Learning, and Quantum Computing
-- 🌱 I’m currently learning Mathematics, Data Science, AI, and ML
+- 👀 I’m interested in Mathematics, Artificial Intelligence
+- 🌱 I’m currently learning Mathematics, Data Science
 - 💞️ I’m looking to collaborate on innovative projects that combine my interests in mathematics and cutting-edge technologies.
 - 📫 How to reach me: lucasmaingi.tech@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring the intersection of theoretical mathematics and practical applications in data science and AI!
