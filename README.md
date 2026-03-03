@@ -1,5 +1,4 @@
-- 👀 I’m interested in Mathematics, Artificial Intelligence
-- 🌱 I’m currently learning Mathematics, Data Science
-- 💞️ I’m looking to collaborate on innovative projects that combine my interests in mathematics and cutting-edge technologies.
-- 📫 How to reach me: lucasmaingi.tech@gmail.com
-- ⚡ Fun fact: I enjoy exploring the intersection of theoretical mathematics and practical applications in data science and AI!
+- Mathematics, Artificial Intelligence
+- I’m looking to collaborate on innovative projects that combine my interests in mathematics and cutting-edge technologies.
+- How to reach me: maingilucas0@gmail.com
+- Fun fact: I enjoy exploring the intersection of theoretical mathematics and practical applications in data science and AI!
