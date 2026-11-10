@@ -1,45 +1,76 @@
-# Hi there, I'm Lucas Maingi 👋
+# Hi, I'm Lucas Maingi 👋
 
-I am a **Machine Learning Engineer & Full Stack Developer** focused on building end-to-end intelligent systems, low-latency prediction APIs, and scalable web architectures. 
+### AI/ML Engineer | Applied Machine Learning | AI Systems Engineering
 
-My engineering approach is rooted in strong physics and mathematics principles, allowing me to build systems from first principles.
+I build practical machine learning and AI-powered software systems, with an interest in taking ideas from experimentation to reliable, usable applications.
 
----
+My work spans predictive modelling, intelligent automation, LLM-powered applications, retrieval-augmented generation (RAG), data engineering, and ML systems.
 
-### 🛠️ Technical Ecosystem
-
-| Category | Technologies |
-| :--- | :--- |
-| **Machine Learning & AI** | `Python` `PyTorch` `scikit-learn` `XGBoost` `LightGBM` `SHAP` `Hugging Face` `LLMs` `RAG` |
-| **Data & Backend** | `SQL` `PostgreSQL` `FastAPI` `Flask` `Supabase` `Redis` `Apache Kafka` `Docker` |
-| **Frontend & Full Stack** | `TypeScript` `JavaScript` `Next.js` `React` `Tailwind CSS` `HTML5` `CSS3` |
-| **Tools & Cloud** | `AWS (EC2, S3)` `Vercel` `Git` `GitHub Actions` `MLflow` |
+I enjoy understanding how systems work under the hood, making deliberate architecture decisions, and building solutions to real-world problems.
 
 ---
 
-### 🚀 Featured Deployments
+## 🔧 Technical Skills
 
-#### 🛡️ [Aletheia](https://aletheia.software)
-*An AI-powered OSINT and threat intelligence platform automating real-time security tracking.*
-*   **Core Tech:** Next.js, Python, Large Language Models (LLMs)
-*   **Key Metric:** Automates data ingestion across **17+ global data sources**.
-*   **Repository:** [Lucas-Maingi/Aletheia](https://github.com/Lucas-Maingi/Aletheia)
+**Languages:** Python, SQL, JavaScript, TypeScript
 
-#### 💸 [PesaGuard](https://pesaguard.streamlit.app)
-*Real-time mobile money fraud detection API and analytics monitoring dashboard.*
-*   **Core Tech:** Python, XGBoost, FastAPI, Streamlit
-*   **Key Metric:** Achieves **94% AUC-ROC classification accuracy** on real-time transaction streams.
-*   **Repository:** [Lucas-Maingi/PesaGuard](https://github.com/Lucas-Maingi/PesaGuard)
+**Machine Learning:** Scikit-learn, PyTorch, XGBoost, feature engineering, model evaluation, classification, regression, anomaly detection
 
-#### 📊 [Aegis Churn Analytics](https://aegis-churn-analytics.streamlit.app)
-*SaaS customer churn prediction engine featuring model explainability using SHAP values.*
-*   **Core Tech:** LightGBM, SHAP, scikit-learn, FastAPI
-*   **Key Metric:** Under **200ms API inference latency**.
-*   **Repository:** [Lucas-Maingi/aegis-churn-analytics](https://github.com/Lucas-Maingi/aegis-churn-analytics)
+**Applied AI:** LLM applications, RAG, embeddings, vector databases, tool calling, AI agents, multimodal AI
+
+**Backend & Data:** FastAPI, REST APIs, PostgreSQL, MongoDB, data pipelines, ETL
+
+**Infrastructure & Tools:** Git, GitHub, Docker, Linux, AWS, CI/CD, model deployment and monitoring
 
 ---
 
-### 📈 Stats & Connect
+## 🚀 Selected Projects
+
+A selection of projects demonstrating my work across machine learning, applied AI, and data engineering.
+
+### Machine Learning & Data Systems
+
+- [**QEC-Bench**](https://github.com/Lucas-Maingi/qec-bench) — A benchmarking framework for evaluating classical and machine learning-based decoders for quantum error correction, with reproducible experiments and performance comparisons.
+
+- [**Aegis Churn Analytics**](https://github.com/Lucas-Maingi/aegis-churn-analytics) — An end-to-end customer churn prediction platform combining XGBoost, SHAP explainability, a FastAPI backend, and an interactive analytics dashboard.
+
+- [**PesaGuard**](https://github.com/Lucas-Maingi/PesaGuard) — A financial transaction fraud detection system using XGBoost, class-imbalance handling, probability calibration, and anomaly detection on the PaySim synthetic transaction dataset.
+
+- [**Mizani**](https://github.com/Lucas-Maingi/mizani) — An orchestrated data engineering pipeline using Dagster, dbt, DuckDB, and Pandera for data transformation, validation, deduplication, and quality monitoring.
+
+### Applied AI & Intelligent Applications
+
+- [**Hermes**](https://github.com/Lucas-Maingi/hermes) — An agentic conversational commerce system integrating WhatsApp Business APIs and M-Pesa Daraja to enable AI-powered product discovery, order processing, and payment workflows.
+
+- [**Botbase**](https://github.com/Lucas-Maingi/botbase) — A multi-tenant RAG platform that crawls and ingests website content, builds searchable vector knowledge bases, and powers conversational AI assistants using LLMs and retrieval.
+
+*Explore each repository for its architecture, implementation details, and technical documentation.*
+
+---
+
+## 🎯 Current Focus
+
+- Building reliable, production-oriented machine learning systems.
+- Improving my understanding of ML infrastructure, deployment, and MLOps.
+- Developing practical LLM applications and agentic workflows.
+- Strengthening software engineering, system design, and Python development.
+- Exploring the intersection of machine learning, mathematics, and real-world applications.
+
+---
+
+## 📚 Background
+
+I have a background in mathematics, physics, and data science, complemented by independent study and hands-on software projects.
+
+I value continuous learning, technical depth, experimentation, and building things that solve meaningful problems.
+
+---
+
+## 🤝 Connect
+
 *   💼 **LinkedIn:** [linkedin.com/in/lucas-maingi](https://linkedin.com/in/lucas-maingi/)
 *   🌐 **Portfolio:** [lucasmaingi.vercel.app](https://lucasmaingi.vercel.app)
 *   📧 **Email:** lucasmaingi.tech@gmail.com
+
+I'm interested in opportunities involving machine learning engineering, applied AI, intelligent applications, and AI systems development.
+---
